@@ -4,8 +4,8 @@
 !init.el
 !.images/
 !.github/
+!themes/
+!tree-sitter/
 !.LICENSE
 !post-init.el
 !pre-early-init.el
-!themes/
-!tree-sitter/
